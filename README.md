@@ -1,4 +1,4 @@
-### _Who will you meet in the crowd? Which portal are you meeting your friends at?_
+##### _Who will you meet in the crowd? Which portal are you meeting your friends at?_
 # **Stagemark**
 **An interactive marketplace for communal live experiences**
 
