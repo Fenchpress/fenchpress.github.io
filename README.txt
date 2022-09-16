@@ -1,4 +1,4 @@
-#**StageMarkVR**
+# StageMarkVR
 
 An interactive marketplace for communal live experiences.
 
