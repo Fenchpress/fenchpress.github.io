@@ -1,6 +1,7 @@
 ### _Who will you meet in the crowd? Which portal are you meeting your friends at?_
 # **Stagemark**
 **An interactive marketplace for communal live experiences**
+
 Everyone’s creating OTT. This is going to be the next generation of entertainment which people haven’t quite seen or billed for yet. It’s an over the top social media “Web 3.0” platform for immersive technology.
 Stagemark is a marketplace for live interactive communal experiences based in the real and virtual worlds we all create together.
 If we build something that can support multiple live AR performances in multiple locations, while supporting the exchange of NFT’s, and enabling artists to engage with fans in meaningful individualized, memorable ways unique to the AR/VR live performance experience; that would be something truly special don’t you think? We are currently developing AI tools to enable any electronic musician to live stream a performance and instantly transform streaming live audio into a multi media interactive immersive live performance. What if these Artificial Intelligent driven Augmented Reality performances were linked to virtual performance locations in order to also support a VR audience?
