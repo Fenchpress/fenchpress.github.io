@@ -1,5 +1,5 @@
 
-StagemarkVR
+<h1>StagemarkVR</h1>
 
 An interactive marketplace for communal live experiences.
 
