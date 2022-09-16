@@ -1,7 +1,7 @@
 
-# StagemarkVR
+StagemarkVR
 
-### An interactive marketplace for communal live experiences.
+An interactive marketplace for communal live experiences.
 
 Everyone’s creating OTT. This is going to be the next generation of entertainment which people haven’t quite seen or billed for yet. It’s an over the top social media “Web 3.0” platform for immersive technology.
 
